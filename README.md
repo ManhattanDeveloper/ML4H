@@ -15,5 +15,5 @@ Frameworks & Tools (Coming Soon)
 
 ## Discover
 
-[Companies](./Companies.md)   
+[Companies](./COMPANIES.md)   
 Projects (Coming Soon)
