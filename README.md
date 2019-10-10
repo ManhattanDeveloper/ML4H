@@ -8,7 +8,7 @@ Papers (Coming Soon)
 ---
 
 ## Build
-Datasets (Coming Soon)  
+[Datasets](./DATASETS.md)  
 Frameworks & Tools (Coming Soon)  
 
 --- 
@@ -16,4 +16,4 @@ Frameworks & Tools (Coming Soon)
 ## Discover
 
 [Companies](./COMPANIES.md)   
-Projects (Coming Soon)
+[Projects](./PROJECTS.md)
