@@ -1,6 +1,11 @@
 # Machine Learning for Health
 ---
 
+## Discover
+
+[Companies](./COMPANIES.md)   
+[Projects](./PROJECTS.md)
+
 ## Learn 
 Tutorials (Coming Soon)  
 [Challenges](./CHALLENGES.md)  
@@ -14,7 +19,3 @@ Tutorials (Coming Soon)
 
 --- 
 
-## Discover
-
-[Companies](./COMPANIES.md)   
-[Projects](./PROJECTS.md)
