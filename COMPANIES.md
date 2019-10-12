@@ -16,6 +16,10 @@
 **Description:** Butterfly used computer vision to create a portible ultrasound machine. Butterfly's Ultrasound-on-Chip technology replaces the traditional transducer system with a single silicon chip, leveraging the same silicon manufacturing as consumer devices. That means - one probe, whole body ultrasound starting under $2k.  
 **Tags:** Computer Vision, Hardware, Ultrasound
 
+### [ClosedLoop](https://closedloop.ai/) 
+**Description:** The ClosedLoop platform is purpose-built to make healthcare-focused data scientists more effective at their jobs. By providing off-the-shelf models for many common healthcare use cases and automating most of the manual processes involved in traditional data science tasks, ClosedLoop allows data scientists to focus on the impactful problems that drive real value for organizations.
+**Tags:** Data Science Tools
+
 ### [Deep Genomics](https://www.deepgenomics.com/) ###
 **Description:** We're using our platform to evaluate over 69 billion molecules against 1 million targets, in silico, to generate a library of 1000 compounds that are experimentally verified to manipulate cell biology as intended. "We are delighted to nominate the first ever AI-discovered therapeutic candidate and are eager to move it rapidly into the clinic for the potential benefit of patients" - Brendan Frey   
 **Tags:** Genomics, Drug Discovery
@@ -23,6 +27,11 @@
 ### [Insilico Medicine](https://insilico.com/) ###
 **Description:** Insilico Medicine pioneered the applications of the generative adversarial networks (GANs), reinforcement learning, transfer learning and meta-learning for generation of novel molecular structures for the diseases with known and unknown targets. Insilico Medicine is pursuing internal drug discovery programs in cancer, dermatological diseases, fibrosis, Parkinson's Disease, Alzheimer's Disease, ALS, diabetes, sarcopenia, and aging.      
 **Tags:** Drug Discovery
+
+### [mettleAI](https://mettleai.com/)
+**Description:** The inter-relationship between addictions and other forms of mental illness, and their connection to physical health, is undeniable. mettleAI helps track your overall mental health just like you would physical health, and leverages machine learning and artificial intelligence to predict deterioration before it happens, allowing you to take greater control of your overall health.          
+**Tags:** Mental Health
+
 
 ### [Niramai](https://www.niramai.com/)
 **Description:** We, at NIRAMAI, are developing a novel software to detect breast cancer at a much earlier stage than traditional methods or self-examination. The core technology of our solution is an artificial intelligence led diagnostic platform that uses patented thermal image processing and machine learning algorithms for reliable and accurate breast cancer screening.  This unique solution can be used as a cancer diagnosis test in hospitals, used for regular preventive health checkups, and also for large scale screening in rural and semi-urban areas.        
