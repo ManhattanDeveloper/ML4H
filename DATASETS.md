@@ -4,6 +4,10 @@
 
 ## Datasets 
 
+### [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)
+**Description:**  CheXpert is a large dataset of chest X-rays and competition for automated chest x-ray interpretation, which features uncertainty labels and radiologist-labeled reference standard evaluation sets.    
+**Tags:**  Radiology
+
 ### [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)  
 **Description:**  ClinVar is a freely accessible, public archive of reports of the relationships among human variations and phenotypes, with supporting evidence. ClinVar processes submissions reporting variants found in patient samples, assertions made regarding their clinical significance, information about the submitter, and other supporting data. The alleles described in submissions are mapped to reference sequences, and reported according to the HGVS standard.  
 **Tags:**  Genomics

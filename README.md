@@ -3,13 +3,14 @@
 
 ## Learn 
 Tutorials (Coming Soon)  
-Papers (Coming Soon)  
+[Challenges](./CHALLENGES.md) 
+[Research Papers](./PAPERS.md)  
 
 ---
 
 ## Build
 [Datasets](./DATASETS.md)  
-Frameworks & Tools (Coming Soon)  
+[Frameworks & Tools](./TOOLS.md)  
 
 --- 
 
