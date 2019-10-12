@@ -3,7 +3,7 @@
 
 ## Learn 
 Tutorials (Coming Soon)  
-[Challenges](./CHALLENGES.md) 
+[Challenges](./CHALLENGES.md)  
 [Research Papers](./PAPERS.md)  
 
 ---
