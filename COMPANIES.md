@@ -4,19 +4,33 @@
 
 ## Companies 
 
+### [Atomwise](https://www.atomwise.com/)
+**Description:** The Atomwise Advantage Using computers to discover medicines is a great idea. They have invented cutting-edge machine learning algorithms that are built specifically for the world's most powerful computers. They use one of the world's top supercomputers to analyze databases 1000 times larger than those used in the past. This lets us deliver what many others can't: precise and reliable medicinal predictions.  
+**Tags:** Drug Discovery
+
 ### [BenevolentAI](https://benevolent.ai/) ###
 **Description:** Our platform of computational and experimental technologies and processes, draws on vast quantities of mined and inferred biomedical data and is built and used by our world-class scientists, researchers, and technologists, working side-by-side, to improve and accelerate every step of the drug discovery process. Our strength comes from this integrated, end-to-end approach, combined with a relentless pursuit of scientific and technological excellence.  
 **Tags:** Drug Discovery, Natural Language Processing 
 
-### [Butterfly iQ](https://benevolent.ai/) ###
+### [Butterfly iQ](https://www.butterflynetwork.com/) ###
 **Description:** Butterfly used computer vision to create a portible ultrasound machine. Butterfly's Ultrasound-on-Chip technology replaces the traditional transducer system with a single silicon chip, leveraging the same silicon manufacturing as consumer devices. That means - one probe, whole body ultrasound starting under $2k.  
 **Tags:** Computer Vision, Hardware, Ultrasound
-
-
 
 ### [Deep Genomics](https://www.deepgenomics.com/) ###
 **Description:** We're using our platform to evaluate over 69 billion molecules against 1 million targets, in silico, to generate a library of 1000 compounds that are experimentally verified to manipulate cell biology as intended. "We are delighted to nominate the first ever AI-discovered therapeutic candidate and are eager to move it rapidly into the clinic for the potential benefit of patients" - Brendan Frey   
 **Tags:** Genomics, Drug Discovery
+
+### [Insilico Medicine](https://insilico.com/) ###
+**Description:** Insilico Medicine pioneered the applications of the generative adversarial networks (GANs), reinforcement learning, transfer learning and meta-learning for generation of novel molecular structures for the diseases with known and unknown targets. Insilico Medicine is pursuing internal drug discovery programs in cancer, dermatological diseases, fibrosis, Parkinson's Disease, Alzheimer's Disease, ALS, diabetes, sarcopenia, and aging.      
+**Tags:** Drug Discovery
+
+### [Niramai](https://www.niramai.com/)
+**Description:** We, at NIRAMAI, are developing a novel software to detect breast cancer at a much earlier stage than traditional methods or self-examination. The core technology of our solution is an artificial intelligence led diagnostic platform that uses patented thermal image processing and machine learning algorithms for reliable and accurate breast cancer screening.  This unique solution can be used as a cancer diagnosis test in hospitals, used for regular preventive health checkups, and also for large scale screening in rural and semi-urban areas.        
+**Tags:** Breast Cancer
+
+### [Onduo](https://onduo.com/)
+**Description:** Onduo (a joint venture between Sanofi and Verily) is a virtual care program with diabetes tools, coaching and clinical support to help you take control of your type 2 diabetes. Learn about type 2 and your body’s reactions to everyday decisions. Get the support and care you need to know more and live easier.        
+**Tags:** Diabetes
 
 ### [Recursion Pharmaceuticals](https://www.recursionpharma.com/) ###
 **Description:** Recursion Pharmaceuticals, Inc. offers drug discovery and treatments using artificial intelligence, automation, bioinformatics, and experimental biology. The company was founded in 2013 and is based in Salt Lake City, Utah.   
