@@ -28,6 +28,11 @@
 **Description:** Insilico Medicine pioneered the applications of the generative adversarial networks (GANs), reinforcement learning, transfer learning and meta-learning for generation of novel molecular structures for the diseases with known and unknown targets. Insilico Medicine is pursuing internal drug discovery programs in cancer, dermatological diseases, fibrosis, Parkinson's Disease, Alzheimer's Disease, ALS, diabetes, sarcopenia, and aging.      
 **Tags:** Drug Discovery
 
+### [Intelligencia.AI](http://intelligencia.ai/)
+**Description:** De-risks clinical development by providing data science solutions for decision-makers in R&D and Business Development. iNsight, Intelligencia's proprietary data cube, integrates structured and unstructured data from a host of data sources. Our subject matter experts curate our data in order to ensure the highest possible quality and accuracy. This enables the platform to: Evaluate the probability of success of a clinical development program, Discover nascent opportunities, Evaluate optimal indications for a target, and discovering insights.  
+**Tags:** Drug Discovery, Data Science Tools, Clinical Trials
+
+
 ### [mettleAI](https://mettleai.com/)
 **Description:** The inter-relationship between addictions and other forms of mental illness, and their connection to physical health, is undeniable. mettleAI helps track your overall mental health just like you would physical health, and leverages machine learning and artificial intelligence to predict deterioration before it happens, allowing you to take greater control of your overall health.          
 **Tags:** Mental Health
