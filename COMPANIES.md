@@ -54,3 +54,5 @@
 **Description:** Founded by Geoffrey Hinton, Vector strives to attract the best global talent focused on research excellence in deep learning and machine learning. Our researchers and academic partners are part of a vibrant community of innovative problem-solvers, working across disciplines on both curiosity-driven and applied research.   
 **Tags:** Research
 
+## List From Report (Kevin to add descriptions):
+Deep genomics ,enlitic, entopsis, ginger.io, healthint, lumiata, medaware, numerate, oncora medical, visexcell, well frame, well tok, zebra medical vision, zephyr health
