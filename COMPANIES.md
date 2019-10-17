@@ -3,8 +3,11 @@
 ---
 
 ## Companies 
+### [Aindra](https://www.aindra.in/) ###
 
-### [Atomwise](https://www.atomwise.com/)
+### [Arterys](https://www.arterys.com/) ###
+
+### [Atomwise](https://www.atomwise.com/) ###
 **Description:** The Atomwise Advantage Using computers to discover medicines is a great idea. They have invented cutting-edge machine learning algorithms that are built specifically for the world's most powerful computers. They use one of the world's top supercomputers to analyze databases 1000 times larger than those used in the past. This lets us deliver what many others can't: precise and reliable medicinal predictions.  
 **Tags:** Drug Discovery
 
@@ -46,13 +49,21 @@
 **Description:** Onduo (a joint venture between Sanofi and Verily) is a virtual care program with diabetes tools, coaching and clinical support to help you take control of your type 2 diabetes. Learn about type 2 and your body’s reactions to everyday decisions. Get the support and care you need to know more and live easier.        
 **Tags:** Diabetes
 
+### [PereDoc](http://www.peredoc.com) ###
+
 ### [Recursion Pharmaceuticals](https://www.recursionpharma.com/) ###
 **Description:** Recursion Pharmaceuticals, Inc. offers drug discovery and treatments using artificial intelligence, automation, bioinformatics, and experimental biology. The company was founded in 2013 and is based in Salt Lake City, Utah.   
 **Tags:** Drug Discovery
 
+### [ten3T Health](https://ten3thealth.com/) ###
+
+### [Tricog](https://www.tricog.com/) ###
+
 ### [Vector Institute](https://vectorinstitute.ai/) ###
 **Description:** Founded by Geoffrey Hinton, Vector strives to attract the best global talent focused on research excellence in deep learning and machine learning. Our researchers and academic partners are part of a vibrant community of innovative problem-solvers, working across disciplines on both curiosity-driven and applied research.   
 **Tags:** Research
+
+### [VoxelCloud](http://www.voxelcloud.io) ###
 
 ## List From Report (Kevin to add descriptions):
 Deep genomics ,enlitic, entopsis, ginger.io, healthint, lumiata, medaware, numerate, oncora medical, visexcell, well frame, well tok, zebra medical vision, zephyr health
