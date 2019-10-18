@@ -49,6 +49,10 @@
 **Description:** Onduo (a joint venture between Sanofi and Verily) is a virtual care program with diabetes tools, coaching and clinical support to help you take control of your type 2 diabetes. Learn about type 2 and your body’s reactions to everyday decisions. Get the support and care you need to know more and live easier.        
 **Tags:** Diabetes
 
+### [SegMed](https://www.segmed.ai/)  
+**Description:** Provides data for companies looking to build ML models for healthcare. SegMed also provides tools for the  labeling of medical data.  
+**Tags:** Data Provider
+
 ### [PereDoc](http://www.peredoc.com) ###
 
 ### [Recursion Pharmaceuticals](https://www.recursionpharma.com/) ###
