@@ -11,6 +11,8 @@
 **Description:** The Atomwise Advantage Using computers to discover medicines is a great idea. They have invented cutting-edge machine learning algorithms that are built specifically for the world's most powerful computers. They use one of the world's top supercomputers to analyze databases 1000 times larger than those used in the past. This lets us deliver what many others can't: precise and reliable medicinal predictions.  
 **Tags:** Drug Discovery
 
+### [Behold.AI](https://behold.ai/)
+
 ### [BenevolentAI](https://benevolent.ai/) ###
 **Description:** Our platform of computational and experimental technologies and processes, draws on vast quantities of mined and inferred biomedical data and is built and used by our world-class scientists, researchers, and technologists, working side-by-side, to improve and accelerate every step of the drug discovery process. Our strength comes from this integrated, end-to-end approach, combined with a relentless pursuit of scientific and technological excellence.  
 **Tags:** Drug Discovery, Natural Language Processing 
@@ -48,6 +50,8 @@
 ### [Onduo](https://onduo.com/)
 **Description:** Onduo (a joint venture between Sanofi and Verily) is a virtual care program with diabetes tools, coaching and clinical support to help you take control of your type 2 diabetes. Learn about type 2 and your body’s reactions to everyday decisions. Get the support and care you need to know more and live easier.        
 **Tags:** Diabetes
+
+### [Qure.AI](http://qure.ai/)
 
 ### [SegMed](https://www.segmed.ai/)  
 **Description:** Provides data for companies looking to build ML models for healthcare. SegMed also provides tools for the  labeling of medical data.  
